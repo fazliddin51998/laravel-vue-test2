@@ -2,7 +2,7 @@
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## This project is created in 1 hour if have any bugs please send mail fazliddin51998@gmail.com
+## This project is created in 1 hour. if have any bugs please send mail fazliddin51998@gmail.com
 ## 1-step creat new db mysql or postgresql
 ```
 CREATE DATABASE db_name;
